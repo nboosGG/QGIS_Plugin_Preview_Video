@@ -1,5 +1,7 @@
 # QGIS_Plugin_Preview_Video
 
+This repo demonstrates the plugin I developed at SLF, using the master thesis' interactive machine learning approach within a QGIS Plugin for fast object mapping.
+
 ## Preview Video
 [![Watch the QGIS Plugin Demo on YouTube](https://img.youtube.com/vi/aNeQP8quQWM/0.jpg)](https://youtu.be/aNeQP8quQWM)
 
